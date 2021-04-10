@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React_LightOutGame/static/css/main.56e859dd.chunk.css",
+    "main.js": "/React_LightOutGame/static/js/main.458fa8b9.chunk.js",
+    "main.js.map": "/React_LightOutGame/static/js/main.458fa8b9.chunk.js.map",
+    "runtime-main.js": "/React_LightOutGame/static/js/runtime-main.27527826.js",
+    "runtime-main.js.map": "/React_LightOutGame/static/js/runtime-main.27527826.js.map",
+    "static/js/2.8cc44dd9.chunk.js": "/React_LightOutGame/static/js/2.8cc44dd9.chunk.js",
+    "static/js/2.8cc44dd9.chunk.js.map": "/React_LightOutGame/static/js/2.8cc44dd9.chunk.js.map",
+    "index.html": "/React_LightOutGame/index.html",
+    "static/css/main.56e859dd.chunk.css.map": "/React_LightOutGame/static/css/main.56e859dd.chunk.css.map",
+    "static/js/2.8cc44dd9.chunk.js.LICENSE.txt": "/React_LightOutGame/static/js/2.8cc44dd9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27527826.js",
+    "static/js/2.8cc44dd9.chunk.js",
+    "static/css/main.56e859dd.chunk.css",
+    "static/js/main.458fa8b9.chunk.js"
+  ]
+}
